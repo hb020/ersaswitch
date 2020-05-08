@@ -1,0 +1,93 @@
+Ref;Value;Footprint
+C1;100nF;Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+C2;100nF;Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+C3;470uF;Capacitor_THT:CP_Radial_D10.0mm_P5.00mm
+C4;100nF;Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+C5;100uF;Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C6;100uF;Capacitor_THT:CP_Radial_D6.3mm_P2.50mm
+C7;100nF;Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+C8;4u7F;Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+C9;100nF;Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+C10;100nF;Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+C11;100nF;Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+C12;100nF;Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+D1;1N4001;Diode_SMD:D_SOD-123
+D2;1N4001;Diode_SMD:D_SOD-123
+D3;1N4148;Diode_SMD:D_SOD-123
+D4;1N4148;Diode_SMD:D_SOD-123
+D5;LED2_Dual_CAC;LED_THT:LED_D3.0mm-3
+D6;LED1_Dual_CAC;LED_THT:LED_D3.0mm-3
+H1;MountingHole;MountingHole:MountingHole_3mm
+H2;MountingHole;MountingHole:MountingHole_3mm
+H3;MountingHole;MountingHole:MountingHole_3mm
+H4;MountingHole;MountingHole:MountingHole_3mm
+H5;MountingHole;MountingHole:MountingHole_3mm
+H6;MountingHole;MountingHole:MountingHole_3mm
+H7;MountingHole;MountingHole:MountingHole_3mm
+H8;MountingHole;MountingHole:MountingHole_3mm
+J1;Conn_01x03_Male;TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal
+J2;Conn_01x01_Female;Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical
+J3;Conn_01x01_Male;Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal
+J4;Conn_01x02_Male;mylib:PinHeader_1x02_P2.54mm_Vertical_for_rivets
+J5;Conn_01x06_Male;mylib:PinHeader_1x06_P2.54mm_Vertical_for_rivets
+J6;Conn_01x03_Male;mylib:PinHeader_1x03_P2.54mm_Vertical_biggerpads
+J7;Barrel_Jack_Switch;Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal
+J8;Conn_01x02_Male;mylib:PinHeader_1x02_P2.54mm_Vertical_for_rivets
+J9;Conn_01x06_Male;mylib:PinHeader_1x06_P2.54mm_Vertical_for_rivets
+J10;Conn_01x03_Male;Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal
+J11;Conn_01x03_Female;Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical
+J12;Conn_01x03_Male;TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal
+J13;Conn_01x04_Male;TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal
+J14;Conn_01x03_Male;TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal
+J15;Conn_01x03_Male;TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal
+J16;Conn_01x01_Male;Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal
+J17;Conn_01x01_Male;Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal
+J18;Conn_01x01_Female;Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical
+J19;Conn_01x01_Female;Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical
+J20;Conn_01x01_Female;Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical
+J21;Conn_01x01_Male;Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal
+J22;Conn_01x01_Female;Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical
+J23;Conn_01x01_Male;Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal
+J24;Conn_01x01_Female;Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical
+J25;Conn_01x01_Male;Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal
+K1;FINDER-41.52;Relay_THT:Relay_DPDT_Finder_40.52
+K2;FINDER-41.52;Relay_THT:Relay_DPDT_Finder_40.52
+L1;18uH;Inductor_SMD:L_Taiyo-Yuden_NR-50xx_HandSoldering
+PS1;B1205LS-1WR2;mylib:Converter_DCDC_BxxxxLS-1WR2
+Q1;BC817;Package_TO_SOT_SMD:SOT-23
+Q2;BC817;Package_TO_SOT_SMD:SOT-23
+Q3;IRFR5305;Package_TO_SOT_SMD:TO-252-2
+R1;4k7;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R2;4k7;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R3;1k?;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R4;10k;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R5;1M;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R6;4k7;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R7;1k;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R8;10k;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R9;4k7;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R10;680;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R11;470;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R12;680;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R13;470;Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+R14;0R;Resistor_SMD:R_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+R15;0R;Resistor_SMD:R_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+R16;0R;Resistor_SMD:R_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+R17;0R;Resistor_SMD:R_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+SW1;SW_Push (connection);mylib:PinHeader_1x02_P2.54mm_Vertical_for_rivets
+U1;ATtiny214-SS;Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+U2;AMS1117-5.0;Package_TO_SOT_SMD:SOT-223-3_TabPin2
+U3;74VHC1G132;Package_TO_SOT_SMD:SOT-23-5_HandSoldering
+U4;PC817;Package_DIP:DIP-4_W7.62mm_LongPads
+;;
+;;
+Ref;Value;qty
+Case;Hammond 1598BBBK;1
+DIN plug;PREHKEYTEC 71430-080/0800;1
+DIN socket;"PREHKEYTEC 	71206-080/0800";2
+Support for relay;"Finder 	95.15.2SMA";2
+PCB feet;TR FASTENINGS TRLCBSBM-4-01A2-RT -  PCB Support, Lock-In Support With Adhesive Base, Nylon 6.6, 6.4mm x 4.4mm;2
+PCB feet;TR FASTENINGS TRLCBSBM-3-01A2-RT -  PCB Support, Lock-In Support With Adhesive Base, Nylon 6.6, 4.8mm x 4.4mm;2
+Pushbutton;Multicomp MCPS23B-2 -  Pushbutton Switch, Standard, 12 mm, SPST, (On)-Off, Square Raised;1
+fasteners;;various
+cabling;;various

@@ -1,0 +1,10 @@
+*.ngc
+*.nc
+*.sch-bak
+fp-info-cache
+ersaswitch-cache.lib
+ersaswitch.kicad_pcb-bak
+arduino/ersacontroller/.avrduderc
+arduino/ersacontroller/avrdude.conf
+.DS_Store
+Other/40001912A.pdf
