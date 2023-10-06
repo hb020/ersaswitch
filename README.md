@@ -3,6 +3,8 @@
 This project is about an external switch to an Ersa i-CON controller.
 It allows switching between tools, without voiding Ersa warranty (at least, nothing from Ersa is opened and no wires are cut), and without occupying more desk space.
 
+![how it looks like](images/IMG_2201.jpg)
+
 Inspired by https://www.eevblog.com/forum/reviews/ersa-i-con2v-(port-switch-hack)/
 
 But I have an i-con 1V.
